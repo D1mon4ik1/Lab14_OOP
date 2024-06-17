@@ -1,0 +1,36 @@
+D:\Нова папка\Lab13OOP\bin\Debug\net8.0-windows\Lab13OOP.exe
+D:\Нова папка\Lab13OOP\bin\Debug\net8.0-windows\Lab13OOP.deps.json
+D:\Нова папка\Lab13OOP\bin\Debug\net8.0-windows\Lab13OOP.runtimeconfig.json
+D:\Нова папка\Lab13OOP\bin\Debug\net8.0-windows\Lab13OOP.dll
+D:\Нова папка\Lab13OOP\bin\Debug\net8.0-windows\Lab13OOP.pdb
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.Form1.resources
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.AssemblyInfo.cs
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.dll
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\refint\Lab13OOP.dll
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.pdb
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.genruntimeconfig.cache
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\ref\Lab13OOP.dll
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.DirectoryOperationsForm.resources
+D:\Нова папка\Lab13OOP\obj\Debug\net8.0-windows\Lab13OOP.FileOperationsForm.resources
+D:\Project_C#\Lab14\bin\Debug\net8.0-windows\Lab13OOP.exe
+D:\Project_C#\Lab14\bin\Debug\net8.0-windows\Lab13OOP.deps.json
+D:\Project_C#\Lab14\bin\Debug\net8.0-windows\Lab13OOP.runtimeconfig.json
+D:\Project_C#\Lab14\bin\Debug\net8.0-windows\Lab13OOP.dll
+D:\Project_C#\Lab14\bin\Debug\net8.0-windows\Lab13OOP.pdb
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.DirectoryOperationsForm.resources
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.FileOperationsForm.resources
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.Form1.resources
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.csproj.GenerateResource.cache
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.AssemblyInfoInputs.cache
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.AssemblyInfo.cs
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.csproj.CoreCompileInputs.cache
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.dll
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\refint\Lab13OOP.dll
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.pdb
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\Lab13OOP.genruntimeconfig.cache
+D:\Project_C#\Lab14\obj\Debug\net8.0-windows\ref\Lab13OOP.dll
